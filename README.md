@@ -3,7 +3,7 @@
 
 ---
 
-- *Your title can change over time.*
+A link to my Milestone 4 presentation can be found here. 
 
 ## Milestones
 
